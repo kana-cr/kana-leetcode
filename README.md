@@ -1,2 +1,3 @@
-# juc-demo
-学习JUC时可以参考的demo案例
+# kana-leetcode
+个人leetcode刷题记录
+
